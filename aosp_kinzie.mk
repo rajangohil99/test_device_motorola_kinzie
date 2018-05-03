@@ -10,7 +10,7 @@ $(call inherit-product, vendor/aosp/common.mk)
 DEVICE_PACKAGE_OVERLAYS += device/motorola/kinzie/overlay
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_kinzie
+PRODUCT_NAME := aosp_kinzie
 PRODUCT_BRAND := Android
 PRODUCT_DEVICE := kinzie
 PRODUCT_MODEL := XT1581
